@@ -145,5 +145,4 @@ int main() {
 			cout << "Pilihan: ";
 			cin >> pilihan;
 			switch (pilihan)
-				//menambahkan apa yang akan ditampilkan dalam sistem
 			{
